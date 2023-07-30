@@ -1,0 +1,235 @@
+/*
+    ##Device = Most of the Smartphones Galaxi Fold)
+    ##Screen = B/W 320px to 479px
+*/
+@media (min-width: 279px) and (max-width: 319px){
+/* CSS */
+
+
+.container{
+	width: 95%;
+}
+
+.row{
+	width: 100%;
+	float: left;
+}
+.col-12{
+	width: 100%;
+	float: left;
+}
+.col-6{
+	width: 100%;
+	float: left;
+}
+.col-4{
+	width: 100%;
+	float: left;
+}
+.header .logo{
+	width: 100%;
+	display: block;
+	text-align: center;
+}
+.header .navbar{
+	text-align: left;
+}
+.header .navbar li a{
+	font-size: 10px;
+	margin: 10px 0px 0px 12px;
+}
+.banner{
+	padding: 30px 0px;
+}
+.banner h1{
+	font-size: 21px;
+}
+.banner p{
+	font-size: 10px;
+}
+.success{
+	padding: 30px 0px;
+}
+.success .left-success{
+	text-align: center;
+}
+.success .left-success h1{
+	margin: 0px;
+	font-size: 21px;
+}
+.success .left-success {
+	margin: 0px;
+	font-size: 10px;
+}
+.success .right-success{
+	text-align: center;
+}
+.success .right-success h1{
+	margin: 0px;
+	font-size: 21px;
+}
+.feature{
+	padding: 30px 20px;
+}
+.inner-feature{
+	width: 67%;
+	margin: 0px 10px 20px;
+}
+.inner-feature img{
+	width: 100%;
+	height: 120px;
+}
+.inner-feature h4{
+	font-size: 16px;
+}
+.inner-feature p{
+	font-size: 10px;
+}
+
+
+/* css end */
+}
+
+/*
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/W 320px to 479px
+*/
+
+@media (min-width: 320px) and ( max-width: 480px){
+/* CSS  */
+
+.container{
+	width: 95%;
+}
+
+.row{
+	width: 100%;
+	float: left;
+}
+.col-12{
+     width: 100%;
+     float: left;
+}
+.col-6{
+	width: 100%;
+	float: left;
+}
+.col-4{
+	width: 100%;
+	float: left;
+}
+.header .logo{
+	width: 100%;
+	display: block;
+	text-align: center;
+}
+.header .navbar{
+	text-align: left;
+}
+.header .navbar li a{
+	font-size: 13px;
+}
+.banner{
+	padding: 40px 0px;
+}
+.banner h1{
+	font-size: 28px;
+}
+.banner p{
+	font-size: 13px;
+}
+.success{
+	padding: 40px 0px;
+}
+.success .left-success{
+	text-align: center;
+}
+.success .left-success h1{
+	margin: 0px;
+	font-size: 28px;
+}
+.success .left-success p{
+	margin: 0px;
+	font-size: 13px;
+}
+.success .right-success{
+	text-align: center;
+}
+.success .right-success h1{
+	margin: 0px;
+	font-size: 28px;
+}
+.feature{
+	padding: 40px 5px;
+}
+.inner-feature{
+	margin: 0px 10px 20px;
+}
+/* css end */
+}
+
+/*
+   ##Device = Low Resolution Tablets, Mobiles (Landscape)
+   ##Screen = B/W 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px){
+/* CSS */
+}
+/*
+    ##Device = Tablets, Ipads (Portrait)
+    ##Screen = B/W 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px){
+
+/* CSS */
+
+.container{
+	width: 95%;
+}
+
+.row{
+	width: 100%;
+	float: left;
+}
+.col-12{
+	width: 100%;
+	float: left;
+}
+.col-6{
+	width: 100%;
+	float: left;
+}
+.col-4{
+	width: 100%;
+	float: left;
+}
+.header .logo{
+	width: 100%;
+	display: block;
+	text-align: center;
+}
+.header .navbar{
+	text-align: center;
+}
+
+.success .left-success{
+	text-align: center;
+}
+.success .right-success{
+	text-align: center;
+}
+
+
+.feature{
+	padding: 40px 0px;
+}
+.inner-feature{
+	margin: 0px 5px 20px;
+	width: 90%;
+}
+
+
+}
+
